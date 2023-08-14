@@ -20,23 +20,23 @@ body {
 }
 
 #content {
-  padding: 20px;
-  background: rgba(255,255,255,.85);
+  padding: 10px;
+  background: rgba(243, 241, 241, 0.85);
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family: 'Gabriel', serif;
+  color: #3f0e0e;
 }
 
 h1 {
-  font-size: 3.5em;
-  margin-bottom: 0;
+  font-size: 3em;
+  margin-bottom: 0.5;
 }
 
 h2 {
-  font-size: 1.5em;
-  margin-top: .5em;
+  font-size: 1em;
+  margin-top: 0em;
 }
 
 h3 {
@@ -56,7 +56,7 @@ p {
 }
 
 a {
-  color: black;
+  color: rgb(82, 57, 57);
   text-decoration: none;
 }
 
